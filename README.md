@@ -1,7 +1,10 @@
 # 🌌 About Me:
 
-About Me uwu  
-
+✧About Me uwu  
+✧  
+✧  
+✧  
+✧
 
 ## 🖥 Skills:
 
