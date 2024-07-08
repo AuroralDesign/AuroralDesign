@@ -1,10 +1,8 @@
 # 🌌 About Me:
 
-✧About Me uwu  
-✧  
-✧  
-✧  
-✧
+✧ I'm a fourth year student, studying Software Engineering  
+✧ I own a small business on Etsy where I sell vector based graphics for livestreamers and content creators  
+
 
 ## 🖥 Skills:
 
