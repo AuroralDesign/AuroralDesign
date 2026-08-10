@@ -1,18 +1,36 @@
-# 🌌 About Me:
+# Hi, I'm Athena V 👋
 
-✧ I'm a fourth year student, studying Software Engineering  
-✧ I own a small business on Etsy where I sell vector based graphics for livestreamers and content creators  
+Software Engineering student (B.S., Western Governors University) with a background as an independent small-business owner, now building full-stack and mobile applications. I enjoy taking on new challenges, learning new software and crafts, and making things that delight and connect people.
+
+🔗 Portfolio: [Click me!](https://athenavazquez.vercel.app/)
+
+## Skills
+
+**Languages & Frameworks:** Java, Python, JavaScript, TypeScript, HTML, CSS, Spring (MVC), Angular, Next.js, Android/Room
+**Databases:** MySQL, PostgreSQL, SQLite
+**Tools & Platforms:** Git/GitLab, Docker, Vercel, Supabase
+**Design:** Adobe Illustrator, Photoshop, After Effects, Premiere, Figma
+**Certifications:** CompTIA A+, CompTIA Project+, AXELOS ITIL4
+
+## Featured Projects
+
+### [Jewelry Shop Inventory Management System](#)
+Full-stack inventory system (Spring MVC, Java, Thymeleaf) for a bicycle shop, with CRUD operations, min/max inventory validation, and unit-tested business logic.
+
+### [Landon Hotel Scheduling — Multithreading & Docker](#)
+Modified a Spring/Angular hotel reservation app to add internationalization (English/French), multithreaded localized messaging, multi-currency and time zone display, then containerized it with Docker for cloud deployment.
+
+### [Vacation Scheduler (Android)](#)
+Native Android app (Java, Room/SQLite) for tracking vacations and excursions, with date validation, local alerts, and native sharing.
+
+### Bookshelf Mobile App (in progress)
+Personal reading tracker built with Python, TypeScript, Tailwind CSS, Next.js, and Supabase, using the Google Books API.
 
 
-## 🖥 Skills:
+## Background
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
+Before software engineering, I ran an independent Etsy shop for five years, growing digital product revenue 183% and sales volume 417% year-over-year by researching market trends, iterating on product design, and using SEO/analytics to guide decisions. That experience shaped how I approach engineering with a dedicated focus on research, iteration, and customer support.
 
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+## Let's Connect
 
-
-### 📱 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aavazquez17/)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Open to software engineering opportunities, feel free to check out my portfolio and reach out.
