@@ -6,11 +6,11 @@ Software Engineering student (B.S., Western Governors University) with a backgro
 
 ## Skills
 
-**Languages & Frameworks:** Java, Python, JavaScript, TypeScript, HTML, CSS, Spring (MVC), Angular, Next.js, Android/Room
-**Databases:** MySQL, PostgreSQL, SQLite
-**Tools & Platforms:** Git/GitLab, Docker, Vercel, Supabase
-**Design:** Adobe Illustrator, Photoshop, After Effects, Premiere, Figma
-**Certifications:** CompTIA A+, CompTIA Project+, AXELOS ITIL4
+**Languages & Frameworks:** Java, Python, JavaScript, TypeScript, HTML, CSS, Spring (MVC), Angular, Next.js, Android/Room  
+**Databases:** MySQL, PostgreSQL, SQLite  
+**Tools & Platforms:** Git/GitLab, Docker, Vercel, Supabase  
+**Design:** Adobe Illustrator, Photoshop, After Effects, Premiere, Figma  
+**Certifications:** CompTIA A+, CompTIA Project+, AXELOS ITIL4  
 
 ## Featured Projects
 
