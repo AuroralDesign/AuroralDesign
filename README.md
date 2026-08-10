@@ -23,9 +23,6 @@ Modified a Spring/Angular hotel reservation app to add internationalization (Eng
 ### [Vacation Scheduler (Android)](https://github.com/AuroralDesign/D308-MobileApplicationDevelopment)
 Native Android app (Java, Room/SQLite) for tracking vacations and excursions, with date validation, local alerts, and native sharing.
 
-### Bookshelf Mobile App (in progress)
-Personal reading tracker built with Python, TypeScript, Tailwind CSS, Next.js, and Supabase, using the Google Books API.
-
 
 ## Background
 
